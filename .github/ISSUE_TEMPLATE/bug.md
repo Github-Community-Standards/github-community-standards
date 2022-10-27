@@ -1,7 +1,12 @@
-- BUG:
-WHEN I DO _______, ________ happens
+---
+title: [BUG] <Description of your Error>
+tags: bug,
+---
 
-- System:
+## How to repeat the issue
+<-- Explain How to recreate the issue. Screenshots or Gifs are welcome -->
+
+## System:
 - [ ] Mac
 - [ ] Windows
 - [ ] LInux
