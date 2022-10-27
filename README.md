@@ -2,4 +2,5 @@
 Checks the community standards of your project when you open the repo.
 
 
-YAAAAY This is dope
+# Code of Conduct
+Be sure to review the Code of Conduct
