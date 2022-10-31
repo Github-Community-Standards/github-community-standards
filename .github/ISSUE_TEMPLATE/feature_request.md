@@ -14,8 +14,6 @@ _Call out any constraint/blockers and/or assumptions relevant for the developmen
 
 _Provide a high level description of the design highlighting the impacted OSC components, i.e.: REST API, data entities, SDKs, etc.:_
 
-</br>
-
 > Note: Using a high level design diagram and/or sequence diagrams in this section can be helpful (example: [Mermaid](https://mermaid-js.github.io/mermaid/#/)).
 
 ## Assignees
