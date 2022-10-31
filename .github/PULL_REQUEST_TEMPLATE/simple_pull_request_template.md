@@ -1,12 +1,26 @@
-<!-- This template should only be used in rare situations. If it is possible that the details will at all effect the ability of other contributors, the detailed pull request template should be used. If your reviewer believes more info is necessary, they may have you complete the detialed_pull_request_template. -->
+## Describe your changes:
 
-## Describe your changes
+#### What?
 
-## Issue ticket number and link
+#### Why?
+
+#### How?
+
+#### Screenshots (optional)?
+
+#### Notes?
+
+## Issue ticket number and link:
+
+Use: `Resolves #<ENTER THE ISSUE NUMBER>`
+
+- See [Github Issue LInking](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword) for clarification.
+
+> Note: You can skip linking issue to pr, **_if_** the issue is linked to the branch.
 
 ## Checklist before requesting a review
 
-- [ ] I have performed a self-review of my code
-- [ ] If it is a core feature, I have added thorough tests.
-- [ ] Do we need to implement analytics?
-- [ ] Will this be part of a product update? If yes, please write one phrase about this update.
+- [ ] I have added/performed thorough tests.
+  > Note: <-- Skip if a documentation update -->
+- [ ] I have reviewed and acknowledge the Code of Conduct.
+- [ ] I have reviewed and acknowledge the Contributing Guide.
